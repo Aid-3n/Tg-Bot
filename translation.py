@@ -3,9 +3,9 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 
 START_MESSAGE = '''**Hello, {}
-I Am Ziplinker.net, Bulk Link Converter. I Can Convert Links Directly From Your Account,
+I Am syshort.net, Bulk Link Converter. I Can Convert Links Directly From Your Account,
     
-1. Go To 👉 https://Ziplinker.net/member/tools/api  
+1. Go To 👉 https://SYShort.com/member/tools/api  
 2. Than Copy API Key
 3. Than Type /api than give a single space and than paste your API Key (see example to understand more...)**
 
@@ -15,17 +15,17 @@ Example:** `/api de303d5270f481aec928f39883da7b7f9a8812ac `
 
 **➕ Hit** 👉 /Features To Know More Features Of This Bot.
 #hello
-**🔗 Hit** 👉 /api To Know More About How To Link Ziplinker.net Account To This Bot.
+**🔗 Hit** 👉 /api To Know More About How To Link syshort.net Account To This Bot.
 **➕ Hit** 👉 /channel Command To Get Help About Adding your channel to bot.
 **➕ Hit** 👉 /footer To Get Help About Adding your Custom Footer to bot.
 
-If You Want Any **Other Shortner** Link Converter Bot Instead Of Ziplinker.net than **contact** at 👉 @cyniteoffcial (all **shortners** support available.)
+If You Want Any **Other Shortner** Link Converter Bot Instead Of syshort.net than **contact** at 👉 @cyniteoffcial (all **shortners** support available.)
 '''
 
 HELP_MESSAGE = '''**Hello, {}
 I Am Ziplinker.net, Bulk Link Converter Bot. I Can Convert Links Directly From Your Ziplinker.net Account,**
     
-1. Go To 👉 https://Mdiskconvertor.site/member/tools/api  
+1. Go To 👉 https://SYShort.com/member/tools/api  
 2. Than **Copy API** Key
 3. Than Type **/api** than give a **single space** and than **paste** your **API** Key (**see example** to understand more...)
 
@@ -38,7 +38,7 @@ Example:** `/api de303d5270f481aec928f39883da7b7f9a8812ac `
 **➕ Hit** 👉 /channel Command To Get Help About Adding your channel to bot.
 **➕ Hit** 👉 /footer To Get Help About Adding your Custom Footer to bot.
 
-If You Want Any **Other Shortner** Link Converter Bot Instead Of ""Ziplinker.net** than **contact** at 👉 @Cyniteofficial (all **shortners support** available.)**
+If You Want Any **Other Shortner** Link Converter Bot Instead Of ""syshort.net** than **contact** at 👉 @Cyniteofficial (all **shortners support** available.)**
 '''
 
 ABOUT_TEXT = '''**Hey! My name is @Ziplinkerbot. I am Ziplinker.net Converter Bot.**
@@ -97,7 +97,7 @@ HELP_REPLY_MARKUP = InlineKeyboardMarkup([
 
 START_MESSAGE_REPLY_MARKUP  = InlineKeyboardMarkup([
     [
-        InlineKeyboardButton('Connect To ZipLinker', url=f'https://Ziplinker.net/member/tools/api')
+        InlineKeyboardButton('Connect To ZipLinker', url=f'https://SYShort.com/member/tools/api')
     ]
 ])
 
@@ -128,11 +128,11 @@ USER_ABOUT_MESSAGE = """
 
 
 SHORTENER_API_MESSAGE = """To add or update your Shortner Website API, 
-1. Go To👉** https://Ziplinker.net/member/tools/api?connect=true
+1. Go To👉** https://syshort.net/member/tools/api?connect=true
 2. Than **Copy API** Key
 3. Than Type **/api** than a single space than paste **your API Key** (see example to understand more...)
 
-To Link Your Ziplinker.net Account : Just Type 👇 
+To Link Your syshort.net Account : Just Type 👇 
  /api<space>API Key 
 (See Example.👇)
 
